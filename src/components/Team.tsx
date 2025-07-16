@@ -121,7 +121,7 @@ const Team = () => {
             name: "Aman XAVIER",
             position: "Finance Lead",
             image: aman,
-            bio: "Developing Innovative Technical Solution",
+            bio: "Incharge of financial Operations",
             Linkedin: "https://www.linkedin.com/in/abhishek-vijayan-baa449243/",
             github: "https://github.com/Tribeal",
             email: "chanduvk133@gmail.com"
