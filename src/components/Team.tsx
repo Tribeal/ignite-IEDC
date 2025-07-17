@@ -118,7 +118,7 @@ const Team = () => {
 
          {
             id: 9,
-            name: "Aman XAVIER",
+            name: "Aman Xavier",
             position: "Finance Lead",
             image: aman,
             bio: "Incharge of financial Operations",
